@@ -1,5 +1,5 @@
 # Trading-bot
-An Algorithmic trading bot that is based the infamous 5 EMA strategy by Subasish Pani sir.
+An Algorithmic trading bot that is based the infamous 5 EMA strategy by Subasish Pani sir.It uses fyers(a broker) api to execute orders based on strategy conditions.
 
 
 
